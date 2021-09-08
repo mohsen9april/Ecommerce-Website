@@ -318,3 +318,19 @@ ul{
 .copyright {
     text-align: center;
 }
+
+/* ----------- All products pages ---------- */
+
+.row-2 {
+    justify-content: space-between;
+    margin: 100px auto 50px;
+}
+
+select {
+    border: 1px solid #ff523b;
+    padding: 5px;
+}
+
+select:focus {
+    outline: none;
+}
